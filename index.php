@@ -1,5 +1,5 @@
 <?php
-echo "<h1 style='color:red;'>TJMS Demo v4.0 branchv2</h1> ";
+ech1o "<h1 style='color:red;'>TJMS Demo v4.0 branchv2</h1> ";
 echo $_SERVER['SERVER_ADDR'];
 
 echo "<br><hr>";
