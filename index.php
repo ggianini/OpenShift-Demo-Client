@@ -5,7 +5,7 @@ echo $_SERVER['SERVER_ADDR'];
 echo "<br><hr>";
 echo "<h2>Cidades cadastradas no Banco de Dados:</h2>";
 
-$conn = new mysqli("mysql", "redhat", "redhat", "sampledb");
+$conn = new pg_connect("postgresql", "user1", "admin", "sampledb");
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
