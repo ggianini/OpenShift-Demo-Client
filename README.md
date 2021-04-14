@@ -1,2 +1,2 @@
-# INSS-OpenShift-demo
+# FIRJAN-OpenShift-demo
 OpenShift Demo para a equipe do INSS
