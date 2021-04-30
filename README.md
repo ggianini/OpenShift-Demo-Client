@@ -1,2 +1,2 @@
-# FIRJAN-OpenShift-demo
-OpenShift Demo para a equipe do INSS
+# TCE-AM OpenShift-demo
+OpenShift Demo para a equipe do TCE-AM
