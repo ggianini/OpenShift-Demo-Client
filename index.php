@@ -1,5 +1,5 @@
 <?php
-echo "<h1 style='color:red;'>TCE-AM Demo v2.0</h1> ";
+echo "<h1 style='color:red;'>Demo v2.0</h1> ";
 echo $_SERVER['SERVER_ADDR'];
 
 echo "<br><hr>";
