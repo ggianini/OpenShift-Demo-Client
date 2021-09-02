@@ -6,6 +6,6 @@ if (file_exists($filename)) {
 } else {
         echo "Não encontrei falhas!";
         echo "<br><hr>";
-        echo "Caso essa URL devolva um erro 500, significa que o liveness falhou. Nesse caso o OpenShift irá deletar o pod";
+        echo "Caso essa URL devolva um erro 500, o OpenShift irá deletar o pod";
 }
 ?>
